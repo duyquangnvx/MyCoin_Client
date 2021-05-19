@@ -4,11 +4,11 @@
 3: run command: yarn add -D babel-loader
 4: run command: yarn prod   # Compile frontend resources
 
-# Start first node
+# Start first node	// http://localhost:3001
 yarn start
 
-# Start second node
+# Start second node	// http://localhost:3002
 yarn start2
 
-# Start third node
+# Start third node	// http://localhost:3003
 yarn start3
