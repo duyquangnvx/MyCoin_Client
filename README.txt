@@ -12,3 +12,7 @@ yarn start2
 
 # Start third node	// http://localhost:3003
 yarn start3
+
+
+# Link git: https://github.com/duyquangnvx/MyCoin_Client.git
+# Link Youtube: https://youtu.be/x-ZPq-kGLjA
